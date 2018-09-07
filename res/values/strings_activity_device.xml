@@ -1,0 +1,18 @@
+<resources>
+    <string name="device_id">设备状态</string>
+    <string name="device_name">设备名称</string>
+    <string name="device_status">设备状态</string>  
+    <string name="device_ip">设备  IP</string>
+    <string name="device_mac">设备MAC</string>
+    <string name="device_video_btn">视频通话</string>
+    <string name="device_image_btn">获取图像</string>
+    <string name="device_audio_btn">音频</string>
+    <string name="device_video_status">摄像头状态</string>
+    <string name="device_monitor_status">监控状态</string>
+    <string name="device_status_close">关闭</string>
+    <string name="device_status_open">开启</string>
+    <string name="device_status_closeing">关闭中</string>
+    <string name="device_status_opening">开启中</string>
+    <string name="device_status_online">在线</string>
+    <string name="device_status_offline">离线</string>
+</resources>

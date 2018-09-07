@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMClient</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_device">DeviceFragment</string>
+    <string name="title_activity_shop">ShopActivity</string>
+    <string name="title_activity_center">CenterActivity</string>
+    <string name="title_activity_message">MessageActivity</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="feelback">反馈</string>
+
+</resources>

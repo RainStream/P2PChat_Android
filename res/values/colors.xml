@@ -1,0 +1,18 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    
+     <!-- login -->
+    <color name="default_bk">#ffffff</color>
+    <color name="half_transparent_dark">#e0000000</color>
+    <color name="half_transparent_light">#AA000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="login_hint_color">#d4d4d4</color>
+     <!-- main -->
+    <color name="yin">#BCBBBB</color>
+    <color name="yellow">#F79307</color>
+    <color name="host_text_select">#0BB58B</color>
+    <color name="host_text_normal">#7C7C7C</color>
+    <color name="text_color">#000000</color>
+    <color name="white">#ffffff</color>
+</resources>
